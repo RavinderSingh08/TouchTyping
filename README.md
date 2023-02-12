@@ -1,3 +1,10 @@
+## To setup this app:
+
+Step 1: run command `npm install` to install all dependencies.
+Step 2: run command `npm start` to start the app.
+
+## Project Live Link: https://touchtyp.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
