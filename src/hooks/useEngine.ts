@@ -5,7 +5,7 @@ import useTypings from "./useTypings";
 import useWords from "./useWords";
 
 export type State = "start" | "run" | "finish";
-const NUMBER_OF_WORDS = 90;
+const NUMBER_OF_WORDS = 60;
 const COUNTDOWN_SECONDS = 300;
 
 const useEngine = () => {
