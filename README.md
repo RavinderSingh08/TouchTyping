@@ -1,6 +1,7 @@
 ## To setup this app:
 
 Step 1: run command `npm install` to install all dependencies.
+
 Step 2: run command `npm start` to start the app.
 
 ## Project Live Link: https://touchtyp.netlify.app/
